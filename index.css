@@ -1,1 +1,56 @@
-/* Put your style information here! */
+.header {
+-webkit-text-stroke: 1px black;
+text-align: center;
+padding-top: 30px;
+font-size: 50px;
+color: red;
+}
+
+/* Figcaption styling was accessed from w3Schools! */
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+  text-align:center;
+  width: 600px;
+}
+h2 {
+  font-size: 30px;
+}
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+.user1 {
+  color:#538b01;
+}
+
+.user2 {
+  color:#3333cc;
+}
+
+.user3 {
+  color:#cc0000;
+}
+
+.discriptions{
+  margin-right: 15%;
+  margin-left: 15%;
+}
+.storyboard {
+  height: 50%;
+  width: 70%;
+}
+.PensivePenny {
+  color:#cc00cc;
+}
+
+.HastyHarry {
+  color:#009933;
+  #009933
+}
+
+img { display:block; }
